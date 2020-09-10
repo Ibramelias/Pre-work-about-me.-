@@ -1,4 +1,6 @@
 # Pre-work-about-me.-
-This website is a static HTML website using semantic tags and minimal CSS.
-<br>
-It is currently hosted on Github Pages.
+<ul>
+  <ls>This website is a static HTML website using semantic tags and minimal CSS.
+    <br>
+    <ls>It is currently hosted on Github Pages.
+      </ul>     
